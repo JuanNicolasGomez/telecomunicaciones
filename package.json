@@ -1,4 +1,7 @@
 {
+	"scripts":{
+		"start": "node js/clean-blog.js"
+	}
     "title": "Clean Blog",
     "name": "startbootstrap-clean-blog",
     "version": "5.0.1",
